@@ -5,3 +5,5 @@ noBoolSheet Tech Stack Review
 - Use latest performance features
 - No CSS preprocessor, use CSS modules and variables, CSS Grid, Flexbox.
 - NodeJS (if) then with Express 5 (using HTTP/2)
+- Fetch API
+- Maybe Web Assembly, WebWorker, WebRTC, WebSockets.

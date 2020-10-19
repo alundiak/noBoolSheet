@@ -1,5 +1,5 @@
-# noBoolSheet
 No Bool Sheet
+===
 
 So, one Sunday morning in November 2018, I woke up, and started thinking in shower - how would I name my IT company?
 I was already sick and tried of IT companies and methodologies I participated before.
@@ -11,6 +11,9 @@ Yeah, No Bool Sheet :)
 - `Bool` meaning, that in code, I will not fake anything what behaves as it is. I will not use polyfills, or substitute libraries, of mocking code behavior.
 - `Sheet` meaning, that Google SpreadSheet is really great product for me, and I use it very frequent for different purposes. Tables helped not only me but lot of people, and this is bright example how product should behave - simple, intuitive, and useful.
 
+# Goal
+
+Implement fully functioning modern web site, using ONLY native things, #noBoolSheet
 
 # Music of mood:
 
